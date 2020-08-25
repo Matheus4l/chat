@@ -7,7 +7,7 @@ a primeira tela é a de  identificação, e so colocar seu nickname. Em seguida 
 
 Será necessário o docker e docker-compose pré instalado pra subir o mongo e o backend ja configurado.
 
-# Front
+# Frontend
 
 Entre na pasta    
 ```
